@@ -1,0 +1,8 @@
+---
+title: "Foundation Tutorial"
+type: "exercise"
+visibility: "onsite"
+description: "Get some practice using Foundation's grid system and other neat tools!"
+tags: "foundation css"
+ignore:
+- "foundation-tutorial.md"
